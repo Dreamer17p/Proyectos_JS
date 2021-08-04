@@ -1,3 +1,4 @@
+// Comentario
 var num1 = prompt("Pon el primer valor a calcular");
 var num2 = prompt("Pon el segundo valor a calcular");
 var operaciones = prompt("¿Qué operación quiere hacer? {1=* 2=- 3=/ 4=+}");
